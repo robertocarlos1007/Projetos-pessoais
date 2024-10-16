@@ -1,1 +1,2 @@
 # Projetos-pessoais
+Bem-vindo ao meu repositório de Projetos Pessoais! Aqui, você encontrará todos os meus projetos desenvolvidos em HTML e CSS. Este espaço é dedicado ao meu aprendizado e prática, onde exploro diferentes técnicas e estilos de design. Cada projeto é uma oportunidade para aprimorar minhas habilidades e compartilhar meu progresso na jornada do desenvolvimento web. Sinta-se à vontade para explorar, comentar e aprender junto comigo!
